@@ -1,5 +1,5 @@
-- 👋 Hi there, I’m Rei TAKAHASHI
-- 👀 I’m interested in Vue.js
+# 👋 Hi there, I’m Rei TAKAHASHI
+- 👀 I’m interested in Front-End Technologies
 - 🌱 I’m currently learning Vue.js ，React and Python
 
 <!---
