@@ -1,4 +1,4 @@
-# 👋 Hi there, I’m Rei TAKAHASHI
+# 👋 Hi there, I’m REI Takahashi
 - 👀 I’m interested in Front-End Technologies
 - 🌱 I’m currently learning Vue.js ，React and Python
 
